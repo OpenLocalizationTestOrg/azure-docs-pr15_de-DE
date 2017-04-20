@@ -1,0 +1,1 @@
+Es ist auch möglich, VNets zu verbinden, ohne einen VPN-Gateway. Wenn Ihre VNets im gleichen Bereich enthalten sind, möchten Sie möglicherweise erwägen sie mithilfe von VNet peering verbinden. Weitere Informationen finden Sie im Artikel [VNet peering](../articles/virtual-network/virtual-network-peering-overview.md) .

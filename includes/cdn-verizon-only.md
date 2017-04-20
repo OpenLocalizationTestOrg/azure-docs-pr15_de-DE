@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Diese Funktion steht mit **Azure CDN von Verizon** -Produkten (Standard- und Premium). Klicken Sie auf **Azure CDN von Akamai**wird nicht unterstützt.  Lesen Sie einen Vergleich der Features CDN [Azure CDN Übersicht](cdn-overview.md#azure-cdn-features)ein. 

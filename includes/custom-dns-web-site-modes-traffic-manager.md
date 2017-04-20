@@ -1,0 +1,3 @@
+Festlegen einem benutzerdefinierten Domänennamen ein Web-App im App-Verwaltungsdienst Azure, die ist Lastenausgleich durch den Datenverkehr-Manager ist nur für **Standard** -Modus Websites verfügbar. Vor dem Wechsel in den freigegeben, Basic oder Standard-Modus einer Web-app aus dem kostenlosen App-Verwaltungsdienst Plan Modus, müssen Sie zuerst direkte Feststelltaste Ausgaben für Ihr Abonnement App entfernen. 
+
+Weitere Informationen zu den App-Dienst Plan Modi, einschließlich so ändern Sie den Modus Ihrer Website finden Sie unter [So skalieren Websites](../articles/app-service-web/web-sites-scale.md).

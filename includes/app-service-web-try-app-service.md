@@ -1,0 +1,1 @@
+>[AZURE.NOTE] Wenn Sie mit Azure-App-Verwaltungsdienst Schritte für ein Azure-Konto anmelden, bevor Sie möchten, lesen Sie [App-Verwaltungsdienst versuchen](http://go.microsoft.com/fwlink/?LinkId=523751), in dem Sie eine kurzlebige Starter Web app sofort im Dienst App erstellen können. Keine Kreditkarten erforderlich; keine Zusagen.
